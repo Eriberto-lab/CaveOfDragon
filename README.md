@@ -1,6 +1,5 @@
 # Projeto Épico de Estudos: Desvendando as Profundezas Sombrias de TypeScript, POO e SOLID!
-![GIF do D&D]([https://tenor.com/buBwR.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FI2vv&psig=AOvVaw2kQ7Am3CGWCkZxl31VVs9S&ust=1684286970174000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjs2YbY-P4CFQAAAAAdAAAAABAS))
-
+![GIF do D&D]([https://tenor.com/buBwR.gif](https://cdnb.artstation.com/p/assets/images/images/044/810/765/original/katarzyna-cielma-winter-3-4.gif?1641225720))
 
 Bem-vindo a uma aventura sombria e enigmática! Nesse Projeto Épico de Estudos, você será transportado para um mundo repleto de criaturas míticas e perigos ocultos. Explore as profundezas sombrias de TypeScript, Programação Orientada a Objetos (POO) e os enigmáticos princípios do SOLID enquanto enfrenta dragões e monstros. Prepare-se para mergulhar em um universo de mistério e conhecimento!
 
